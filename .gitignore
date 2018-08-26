@@ -101,7 +101,5 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 .idea/workspace.xml
-src/main/resources/
 src/test/
 target/
-tomcat.8080/
